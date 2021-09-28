@@ -1,4 +1,4 @@
-# Predicting Employee Attrition – A Human Resources Use-Case
+# Predicting Employee Attrition: A Human Resources Solution
 
 ## Purpose
 Our endeavor is to build a sustainable system-wide business-model with predictive analytics to solve a universal human resources problem: employee attrition and retention. The overarching goal is adoption by any given human resource department – identifying and pre-emptively targeting pitfalls/ gaps in employee trajectories to reduce attrition.
