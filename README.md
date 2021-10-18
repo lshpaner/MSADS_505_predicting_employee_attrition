@@ -9,9 +9,9 @@ This project is a part of the ADS-XXX course in the Applied Data Science Program
 
 To use this project, first clone the repo on your device using the commands below:
 
-git init
+`git init`
 
-git clone https://github.com/MSADS-505-Data-Science-for-Business/predicting_employee_attrition.git
+`git clone https://github.com/MSADS-505-Data-Science-for-Business/predicting_employee_attrition.git`
 
 ### Project Intro/Objective
 
