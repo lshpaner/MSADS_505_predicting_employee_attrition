@@ -89,4 +89,4 @@ Thank you Dr. Tarshizi and Professor Malin for your guidance in facilitating thi
 
 ### References
 Leonardi, P. & Contractor, N. (2018). Better People Analytics. Harvard Business Review. <ol>
-https://hbr.org/2018/11/better-people-analytics </ol> 
+https://hbr.org/2018/11/better-people-analytics 
