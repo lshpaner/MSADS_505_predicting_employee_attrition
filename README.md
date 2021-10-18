@@ -47,11 +47,11 @@ People analytics traditionally benefits from "using statistical insights from em
 ### Project Description
 The dataset is sourced from Kaggle. It consists of 11 features and 14,999 rows of employee data. The first three features are 'employee id', 'satisfaction_level', and 'last_evaluation.' This is followed by 'Number_project', 'average_monthly_hours', and 'time_spend_company.' The remaining predictors are 'work_accident', 'promotion_last_5years', 'department', and 'salary'. The target (outcome) variable is 'left' – used to predict employee attrition. 
 
-**Hypotheses:**
-Null: There is no difference in attrition from the original dataset and validated dataset.
+Hypotheses:   
+Null: There is no difference in attrition from the original dataset and validated dataset.    
 Alternative: There is a difference in attrition from the original dataset and validated dataset.
 
-**Data Analysis, Visualization, and Modeling**
+**Data Analysis, Visualization, and Modeling**  
 For exploratory data analysis, we check the distribution of data using boxplots and histograms. Additionally, we check for multicollinearity using a correlation matrix.
 
 For modeling, the following are used:
