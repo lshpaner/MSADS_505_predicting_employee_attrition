@@ -3,7 +3,7 @@
 
 This project is a part of the ADS-XXX course in the Applied Data Science Program at the University of San Diego. 
 
--- Project Status: Completed
+### Project Status: Completed
 
 ### Installation
 
