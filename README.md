@@ -1,6 +1,6 @@
 <!-- ![](attrition.png) -->
 
-<div style="text-align:center"><img src="https://github.com/MSADS-505-Data-Science-for-Business/predicting_employee_attrition/blob/main/attrition.png" /></div>
+<div style="text-align:center"><img src="https://github.com/MSADS-505-Data-Science-for-Business/predicting_employee_attrition/blob/main/attrition.png"class="center"></div>
 
 # Predicting Employee Attrition: A Human Resources Solution
 
