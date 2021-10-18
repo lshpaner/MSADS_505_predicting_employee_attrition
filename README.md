@@ -48,15 +48,40 @@ People analytics traditionally benefits from "using statistical insights from em
 The dataset is sourced from Kaggle. It consists of 11 features and 14,999 rows of employee data. The first three features are 'employee id', 'satisfaction_level', and 'last_evaluation.' This is followed by 'Number_project', 'average_monthly_hours', and 'time_spend_company.' The remaining predictors are 'work_accident', 'promotion_last_5years', 'department', and 'salary'. The target (outcome) variable is 'left' – used to predict employee attrition. 
 
 **Hypotheses:**
+Null: There is no difference in attrition from the original dataset and validated dataset.
+Alternative: There is a difference in attrition from the original dataset and validated dataset.
 
-$H_0$: There is no difference in attrition from the original dataset and validated dataset.
-$H_0$: $\mu$ = 24%
+**Data Analysis, Visualization, and Modeling**
+For exploratory data analysis, we check the distribution of data using boxplots and histograms. Additionally, we check for multicollinearity using a correlation matrix.
 
-$H_a$: There is a difference in attrition from the original dataset and validated dataset.
-$H_a$: $\mu$ $\ne$ 24%
+For modeling, the following are used:
+* Logistic Regression
+* Decision Trees
+* Support Vector Machines
+* Random Forests
+* Bagging
+* Linear Discriminant Analysis
+* Neural Networks
+* *K*-Nearest Neighbors
 
+The visualizations for the models include: 
+* Confusion Matrices
+* Cumulative Gains Charts
+* Receiving Operating Characteristic (ROC) Curve
+* Area Under the Curve (AUC)
+* Summary Tables
 
+Roadblocks/ Challenges:
+* Deciding on optimal methods for determining hyperparameters
+* Hyperparameter tuning may not always yield expected results
+* Determining the ideal train_test_valid split due to dataset size
 
 ### License
+MIT License
+Copyright (c) 2018
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Acknowledgements
+Thank you Dr. Tarshizi and Professor Malin for your guidance in facilitating this project. Moreover, thank you to everyone involved as contributors to this repository.
