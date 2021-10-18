@@ -88,5 +88,5 @@ The above copyright notice and this permission notice shall be included in all c
 Thank you Dr. Tarshizi and Professor Malin for your guidance in facilitating this project. Moreover, thank you to everyone involved as contributors to this repository.
 
 ### References
-Leonardi, P. & Contractor, N. (2018). Better People Analytics. Harvard Business Review. <ol>
-https://hbr.org/2018/11/better-people-analytics 
+Leonardi, P. & Contractor, N. (2018). Better People Analytics. Harvard Business Review.
+        https://hbr.org/2018/11/better-people-analytics 
