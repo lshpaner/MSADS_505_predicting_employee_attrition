@@ -44,6 +44,9 @@ People analytics traditionally benefits from "using statistical insights from em
 * Microsoft Excel
 * Microsoft PowerPoint
 
+### Dataset
+* Source: [https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics?select=HR_Employee_Data.xlsx](https://www.kaggle.com/kmldas/hr-employee-data-descriptive-analytics?select=HR_Employee_Data.xlsx)
+
 ### Project Description
 The dataset is sourced from Kaggle. It consists of 11 features and 14,999 rows of employee data. The first three features are 'employee id', 'satisfaction_level', and 'last_evaluation.' This is followed by 'Number_project', 'average_monthly_hours', and 'time_spend_company.' The remaining predictors are 'work_accident', 'promotion_last_5years', 'department', and 'salary'. The target (outcome) variable is 'left' – used to predict employee attrition. 
 
